@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: rgb(150, 252, 252);
+    margin-top: 300px;
+    font: normal 30pt arial;
+}
+
+h1{
+    text-align: center;
+}
+
+
+input{
+    text-align: center;
+}
+
+.botao{
+    border-radius: 10px;
+    padding: 10px;
+    background: rgb(0, 255, 0);
+    border: none;
+    margin-left: 660px;
+    font: normal 30pt arial;
+    margin-top: 40px;
+}
+
+.botao:hover{
+    background: rgb(0, 184, 0);;
+    cursor: pointer;
+}
+
+footer {
+    color: rgb(0, 0, 0); /*Cor do meu nome */
+    text-align: center; /*Local do meu nome */
+    font-style: italic; /*Estilo da fonte */
+}
